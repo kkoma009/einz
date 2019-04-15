@@ -6,7 +6,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>응?</title>
+	<title>응? 깃허브 올렸엉????</title>
 </head>
 
 <body>
